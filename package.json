@@ -1,0 +1,26 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^2.12.0",
+    "alert-node": "^1.2.4",
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "datejs": "^1.0.0-rc3",
+    "dialogflow": "^1.1.1",
+    "dialogflow-fulfillment": "git+https://github.com/naranjja/dialogflow-fulfillment-nodejs.git",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.7",
+    "mysql": "^2.17.1",
+    "postmark": "^2.3.4"
+  }
+}
