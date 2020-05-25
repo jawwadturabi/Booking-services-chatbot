@@ -6,6 +6,10 @@ This bot will make booking in four services. It will then store user data in mys
 - Holidays trip Booking
 - Hotel Booking
 
+## Video Demonstration/Interaction
+
+[![Image](https://user-images.githubusercontent.com/47825998/82844886-a4f94180-9efb-11ea-979c-afa4edf6b05a.png)](https://vimeo.com/user115896954/review/422577691/20e51c3c6a)
+
 ## Setting up Dialogflow Console
 
 Sign-in to [Dialogflow](https://dialogflow.cloud.google.com/) and Create a new agent. Import the zip file from this repository to the agent.
